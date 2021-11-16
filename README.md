@@ -1,6 +1,7 @@
 # Fighter_Game_experiment
 This game is a personal project using critical role charactes.  
-It uses the GGPO rollback netcode to sync up 2 players over a local network, or 2 players on the same machine
+It uses the GGPO rollback netcode to sync up 2 players over a local network, or 2 players on the same machine  
+Note this uses https://github.com/nykwil/UnityGGPO  for its GGPO implementation
 
 Note: Currently there is a bugg that casus it to stutter. 
 
