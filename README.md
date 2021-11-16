@@ -4,6 +4,7 @@ It uses the GGPO rollback netcode to sync up 2 players over a local network, or 
 
 Note: Currently there is a bugg that casus it to stutter
 
+
 not much is currntly implemented byond movement and 1 attack animation and the netcode
 To run, download the CritFighter folder and run the exe inside of it.
 
